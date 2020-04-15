@@ -1,5 +1,5 @@
 {
-	"name": "@marc-pelland/agent",
+	"name": "@egjs/agent",
 	"version": "2.1.5-snapshot",
 	"description": "Extracts browser and operating system information from the user agent string.",
 	"main": "dist/agent.js",
